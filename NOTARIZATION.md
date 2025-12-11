@@ -60,6 +60,7 @@ Example (do not reuse literally):
 
 ---
 
+A typical flow for this repo may use OpenTimestamps to anchor the SHA-256 hash batches from `meta/HASHES.md` onto the Bitcoin blockchain. The corresponding proof files (e.g. `.ots` receipts) should be stored under `receipts/` and referenced here.
 
 
 \## Log
@@ -67,6 +68,7 @@ Example (do not reuse literally):
 
 
 (Append notarization events here in chronological order.)
+
 
 
 
