@@ -269,11 +269,12 @@ Optionally, binary or structured proof files (e.g., OpenTimestamps) may live und
 
 For a narrative overview of the Institute for Recursive Systems Transparency and the thinking behind this standard, see the companion Substack post:
 
-[IRST — Institute for Recursive Systems Transparency]([https://YOUR-SUBSTACK-URL-HERE](https://sparknitt.substack.com/p/i-built-an-institute-to-make-recursive))
+[IRST — Institute for Recursive Systems Transparency](https://sparknitt.substack.com/p/i-built-an-institute-to-make-recursive)
 
 
 Questions, proposals, and participation requests should be opened as issues in this repository or via whatever public channels the author designates.
 
 This repository is the **source of truth** for how IRST is defined, governed, and enforced.
+
 
 
