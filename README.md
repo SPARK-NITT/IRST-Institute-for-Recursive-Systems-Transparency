@@ -9,8 +9,8 @@ Institute for Recursive Systems Transparency (IRST) — Governance & Enforcement
 
 - **Public introduction:** *IRST Overview v1.0* (link TBA)  
 - **GitHub release:** `v1.0.0` (link TBA)  
-- **SHA-256 (docs/IRST_Governance_Charter_v1.1.md):** `TBA_AFTER_HASHING`  
-- **SHA-256 (docs/IRST_Operational_Enforcement_v2.0.md):** `TBA_AFTER_HASHING`  
+- **SHA-256 (docs/IRST_Governance_Charter_v1.1.md):** `6502dc8bd485114fc55ed767760cf822b972a6439ec217241052daa34e8c6eb9`  
+- **SHA-256 (docs/IRST_Operational_Enforcement_v2.0.md):** `4c7dbba21a28abe3b15ae9f54cea4d2629a99330202726dde2fbf2fa16ebcac4`  
 
 Public record of the IRST Governance Charter (v1.1) and IRST Operational Enforcement Specification (v2.0): how recursive systems are defined, governed, and enforced against when they cause compounding harm.
 
@@ -268,3 +268,4 @@ Optionally, binary or structured proof files (e.g., OpenTimestamps) may live und
 Questions, proposals, and participation requests should be opened as issues in this repository or via whatever public channels the author designates.
 
 This repository is the **source of truth** for how IRST is defined, governed, and enforced.
+
