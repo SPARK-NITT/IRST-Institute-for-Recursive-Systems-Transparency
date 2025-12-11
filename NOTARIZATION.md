@@ -67,7 +67,22 @@ A typical flow for this repo may use OpenTimestamps to anchor the SHA-256 hash b
 
 
 
-(Append notarization events here in chronological order.)
+## Log
+
+### 2025-12-11 — Initial IRST spec timestamping
+
+- Scope:
+  - `docs/IRST_Governance_Charter_v1.1.md`  
+    - SHA-256: `6502dc8bd485114fc55ed767760cf822b972a6439ec217241052daa34e8c6eb9`
+  - `docs/IRST_Operational_Enforcement_v2.0.md`  
+    - SHA-256: `4c7dbba21a28abe3b15ae9f54cea4d2629a99330202726dde2fbf2fa16ebcac4`
+- Service: OpenTimestamps (Bitcoin-backed timestamping)
+- Proof files:
+  - `receipts/IRST_Governance_Charter_v1.1.md.ots`
+  - `receipts/IRST_Operational_Enforcement_v2.0.md.ots`
+- Notes: First integrity lock-in for the core IRST governance and enforcement texts.
+
+
 
 
 
