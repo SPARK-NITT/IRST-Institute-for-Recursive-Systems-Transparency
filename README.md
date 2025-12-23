@@ -277,4 +277,18 @@ Questions, proposals, and participation requests should be opened as issues in t
 This repository is the **source of truth** for how IRST is defined, governed, and enforced.
 
 
+### Related SPARK-NITT standards
+
+- NITT — digital identity standard  
+  https://github.com/SPARK-NITT/nitt-digital-identity-standard
+- IRST — transparency for recursive systems  
+  https://github.com/SPARK-NITT/IRST-Institute-for-Recursive-Systems-Transparency
+- HRIS — coherence-centered refusal (HRIS 3.2.4(b))  
+  https://github.com/SPARK-NITT/HRIS-Human-Recursive-Integrity-Standard
+- CTGS — consumer transparency governance  
+  https://github.com/SPARK-NITT/ctgs-consumer-transparency-standard
+
+
+
+
 
