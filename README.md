@@ -233,10 +233,14 @@ For each release you may:
 
 Unless otherwise stated:
 
-- **Textual content** in this repository is licensed under **CC BY 4.0**.  
-- Any future **reference code or scripts** (if added) may be licensed under **MIT**, with explicit license headers where applicable.  
+- **Textual content** in this repository (including the IRST Overview, Origin Statement,
+  Governance Charter, and Operational Enforcement spec) is licensed under
+  **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
+- Any future **code snippets or helper scripts** in this repo are governed by the same
+  **CC BY-ND 4.0** terms unless explicitly noted otherwise.
 
-See `LICENSE` in the repo root for details.
+See `LICENSE.txt` in the repo root for the license summary and link to the legal code.
+
 
 ---
 
@@ -269,26 +273,11 @@ Optionally, binary or structured proof files (e.g., OpenTimestamps) may live und
 
 For a narrative overview of the Institute for Recursive Systems Transparency and the thinking behind this standard, see the companion Substack post:
 
-[IRST — Institute for Recursive Systems Transparency](https://sparknitt.substack.com/p/i-built-an-institute-to-make-recursive)
+[IRST — Institute for Recursive Systems Transparency]([https://YOUR-SUBSTACK-URL-HERE](https://sparknitt.substack.com/p/i-built-an-institute-to-make-recursive))
 
 
 Questions, proposals, and participation requests should be opened as issues in this repository or via whatever public channels the author designates.
 
 This repository is the **source of truth** for how IRST is defined, governed, and enforced.
-
-
-### Related SPARK-NITT standards
-
-- NITT — digital identity standard  
-  https://github.com/SPARK-NITT/nitt-digital-identity-standard
-- IRST — transparency for recursive systems  
-  https://github.com/SPARK-NITT/IRST-Institute-for-Recursive-Systems-Transparency
-- HRIS — coherence-centered refusal (HRIS 3.2.4(b))  
-  https://github.com/SPARK-NITT/HRIS-Human-Recursive-Integrity-Standard
-- CTGS — consumer transparency governance  
-  https://github.com/SPARK-NITT/ctgs-consumer-transparency-standard
-
-
-
 
 
