@@ -231,15 +231,11 @@ For each release you may:
 
 ## 9. License
 
-Unless otherwise stated:
+Non-commercial redistribution is allowed **only as an unchanged copy**. **No derivatives.**
+Commercial use (including sale/monetization) requires a separate paid license from the author.
 
-- **Textual content** in this repository (including the IRST Overview, Origin Statement,
-  Governance Charter, and Operational Enforcement spec) is licensed under
-  **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
-- Any future **code snippets or helper scripts** in this repo are governed by the same
-  **CC BY-ND 4.0** terms unless explicitly noted otherwise.
+See `LICENSE`.
 
-See `LICENSE.txt` in the repo root for the license summary and link to the legal code.
 
 
 ---
@@ -279,6 +275,7 @@ For a narrative overview of the Institute for Recursive Systems Transparency and
 Questions, proposals, and participation requests should be opened as issues in this repository or via whatever public channels the author designates.
 
 This repository is the **source of truth** for how IRST is defined, governed, and enforced.
+
 
 
 
